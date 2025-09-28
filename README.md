@@ -4,8 +4,7 @@ An Excel Dashboard project by **Sagar Dabhade** to analyze coffee shop sales dat
 
 ---
 
-## 📂 Project Files
-- `Dashboard/Coffee_Shop_Dashboard.png` → Main Sales Dashboard (Excel)  
+## 📂 Project Files 
 - `Dataset/coffee_shop_sales.xlsx` → Raw dataset (transactions)
 
 ---
@@ -22,7 +21,7 @@ An Excel Dashboard project by **Sagar Dabhade** to analyze coffee shop sales dat
 ---
 
 ## 🖼️ Dashboard Screenshot
-**1️⃣ Coffee Shop Excel Dashboard**  
+![Coffee Shop Excel Dashboard](Dashboard/Screenshot%202025-09-29%20014905.png)
 
 - **KPIs:** Total Sales ($698,812), Total Footfall (14,916), Avg Bill/Person ($4.69), Avg Order (1.4)  
 - **Hourly Sales Trends**  
