@@ -2,6 +2,8 @@
 
 An Excel Dashboard project by **Sagar Dabhade** to analyze coffee shop sales data and generate meaningful business insights.
 
+ - [Coffee Shop Sales Analysis](Dashboard/Coffee%20Shop%20Sales%20Analysis.pdf)
+
 ---
 
 ## 📂 Project Files 
